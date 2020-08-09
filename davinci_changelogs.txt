@@ -3,7 +3,7 @@ Changelog-
 1.Reverted Back Pixel Power Hal (For Testing Battery)
 2.Added Urynx05 Gcam as Default Camera
 3.Added Incremental Support Back.
-4.Added OTA Support
+4.Added OTA Support (Thnz To Ray,Marco and Arian)
 5.Update Pixel Sources
 6.Switch to OSS Audio Hals
 7.Rebased Tree For Audio Improvements
