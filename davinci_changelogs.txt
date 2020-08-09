@@ -1,4 +1,9 @@
-Initialise
+Changelog-
 
-added something
-testing something or that thing
+1.Reverted Back Pixel Power Hal (For Testing Battery)
+2.Added Urynx05 Gcam as Default Camera
+3.Added Incremental Support Back.
+4.Added OTA Support
+5.Update Pixel Sources
+6.Switch to OSS Audio Hals
+7.Rebased Tree For Audio Improvements
