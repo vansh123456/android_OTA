@@ -7,7 +7,7 @@
       "romtype": "unofficial",
       "size": 1491417065,
       "url": "https://sourceforge.net/projects/pixelosdavinci/files/PixelOS_Davinci/PixelExperience_davinci-10.0-20200805-1455-UNOFFICIAL.zip/download",
-      "version": "ten"
+      "version": "ten",
       "device" : "davinci"
     }
   ]
